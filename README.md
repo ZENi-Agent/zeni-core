@@ -17,9 +17,9 @@ User-verified micro-tasks provide high-quality labels and ground truth, while th
 
 ## Contract Addresses
 
-| Network  | Core Contract | Token Contract | (Optional: Vault / Router / Governance) |
+| Network  | Core Contract | Token Contract |
 |----------|---------------|----------------|-----------------------------------------|
-|opBNB Mainnet | 0x622dfefa0c6d3c2abae0936a048e74e4257ecaad | 0x5Bb895538bE44fBa164F4cDe8e27E91811Cc9204 |  |
+|opBNB Mainnet | 0x622dfefa0c6d3c2abae0936a048e74e4257ecaad | 0x5Bb895538bE44fBa164F4cDe8e27E91811Cc9204 |
 
 ## Features
 
